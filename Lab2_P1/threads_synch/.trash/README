@@ -1,3 +1,0 @@
-Instructions:
-Compile by typing "make" on the command line
-Run by typing "./mult_threads_synch [number of threads]"
