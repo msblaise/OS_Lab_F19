@@ -1,0 +1,11 @@
+Part 1 Instructions:
+
+Unsynchronized:
+Go to the threads_unsynch folder
+Compile mult_threads.c by typing "make" on the command line
+Run the file by typing "./mult_threads [number of threads]"
+
+Synchronized:
+Go to the threads_synch folder
+Compile mult_threads_synch.c by typing "make" on the command line
+Run the file by typing "./mult_threads_synch [number of threads]"
