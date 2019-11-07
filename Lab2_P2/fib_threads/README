@@ -1,0 +1,5 @@
+Part 2 Instructions:
+
+Move to fib_threads folder 
+Compile fib_threads.c by typing "make" on the command line
+Run fib_threads.c by typing "./fib_threads [integer number]"
