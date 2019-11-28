@@ -1,0 +1,7 @@
+Guirdelle Blaise
+5715852
+
+Lab 4: I/O Scheduling
+
+To run the file, go to the root directory and travel to the linux kernel. Then 
+type in "dmesg". To view the output more clearly, output to a .txt file.
